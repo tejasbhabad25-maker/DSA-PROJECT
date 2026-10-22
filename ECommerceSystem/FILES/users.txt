@@ -1,0 +1,2 @@
+C001,John Doe,john@example.com,pass123
+C002,Alice Smith,alice@example.com,secret456

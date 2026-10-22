@@ -1,0 +1,5 @@
+P001,Wireless Mouse,Electronics,25.99,50
+P002,Mechanical Keyboard,Electronics,89.50,30
+P003,USB-C Hub,Electronics,34.99,20
+P004,Running Shoes,Footwear,65.00,15
+P005,Coffee Mug,Kitchenware,12.50,40
